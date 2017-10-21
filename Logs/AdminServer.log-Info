@@ -1,0 +1,49 @@
+03-09-2017 22:06:25,386 INFO  AdminServer:Installing 2 virtual machines.
+03-09-2017 22:06:25,387 INFO  AdminServer:Total Test starts!
+03-09-2017 22:06:25,387 INFO  AdminServer:Executing Load: MEMORY
+03-09-2017 22:06:25,387 INFO  AdminServer:Executing with priority: idle
+03-09-2017 22:06:27,224 INFO  AdminServer:SCENARIO {[#2:2 GB - 2 cores][#3:4 GB - 4 cores]}
+03-09-2017 22:06:27,225 INFO  AdminServer:Test #1
+03-09-2017 22:06:53,391 INFO  AdminServer:Client arrived: /192.168.56.101 Spin up: 20.963204292
+03-09-2017 22:06:53,392 INFO  AdminServer:Connected Machine 1
+03-09-2017 22:07:02,396 INFO  AdminServer:Client arrived: /192.168.56.102 Spin up: 25.297935724
+03-09-2017 22:07:02,397 INFO  AdminServer:Connected Machine 2
+03-09-2017 22:07:05,397 INFO  AdminServer:Begin the process
+03-09-2017 22:07:05,403 INFO  AdminServer:End the process
+03-09-2017 22:07:05,403 INFO  AdminServer:Procces Time: 0.004885549
+03-09-2017 22:07:11,001 INFO  AdminServer:Test #2
+03-09-2017 22:07:37,124 INFO  AdminServer:Client arrived: /192.168.56.101 Spin up: 20.942747776
+03-09-2017 22:07:37,127 INFO  AdminServer:Connected Machine 1
+03-09-2017 22:07:45,008 INFO  AdminServer:Client arrived: /192.168.56.102 Spin up: 24.18689689
+03-09-2017 22:07:45,008 INFO  AdminServer:Connected Machine 2
+03-09-2017 22:07:48,009 INFO  AdminServer:Begin the process
+03-09-2017 22:07:48,012 INFO  AdminServer:End the process
+03-09-2017 22:07:48,012 INFO  AdminServer:Procces Time: 0.002125371
+03-09-2017 22:07:58,618 INFO  AdminServer:Begin the process
+03-09-2017 22:07:58,620 INFO  AdminServer:End the process
+03-09-2017 22:07:58,621 INFO  AdminServer:Begin the process
+03-09-2017 22:07:58,623 INFO  AdminServer:End the process
+03-09-2017 22:07:58,625 INFO  AdminServer:Executing Load: CPU
+03-09-2017 22:07:58,626 INFO  AdminServer:Executing with priority: idle
+03-09-2017 22:08:00,480 INFO  AdminServer:SCENARIO {[#2:2 GB - 2 cores][#3:4 GB - 4 cores]}
+03-09-2017 22:08:00,480 INFO  AdminServer:Test #1
+03-09-2017 22:08:25,679 INFO  AdminServer:Client arrived: /192.168.56.101 Spin up: 19.918200199
+03-09-2017 22:08:25,680 INFO  AdminServer:Connected Machine 1
+03-09-2017 22:08:33,320 INFO  AdminServer:Client arrived: /192.168.56.102 Spin up: 22.848336106
+03-09-2017 22:08:33,320 INFO  AdminServer:Connected Machine 2
+03-09-2017 22:08:36,320 INFO  AdminServer:Begin the process
+03-09-2017 22:08:36,322 INFO  AdminServer:End the process
+03-09-2017 22:08:36,322 INFO  AdminServer:Procces Time: 0.001013634
+03-09-2017 22:08:41,973 INFO  AdminServer:Test #2
+03-09-2017 22:09:07,823 INFO  AdminServer:Client arrived: /192.168.56.101 Spin up: 20.621275996
+03-09-2017 22:09:07,824 INFO  AdminServer:Connected Machine 1
+03-09-2017 22:09:15,639 INFO  AdminServer:Client arrived: /192.168.56.102 Spin up: 23.671072363
+03-09-2017 22:09:15,639 INFO  AdminServer:Connected Machine 2
+03-09-2017 22:09:18,641 INFO  AdminServer:Begin the process
+03-09-2017 22:09:18,642 INFO  AdminServer:End the process
+03-09-2017 22:09:18,643 INFO  AdminServer:Procces Time: 0.001042914
+03-09-2017 22:09:29,263 INFO  AdminServer:Begin the process
+03-09-2017 22:09:29,264 INFO  AdminServer:End the process
+03-09-2017 22:09:29,264 INFO  AdminServer:Begin the process
+03-09-2017 22:09:29,266 INFO  AdminServer:End the process
+03-09-2017 22:09:29,268 INFO  AdminServer:Total Test ends!
